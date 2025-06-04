@@ -1,80 +1,97 @@
-# API-INTEGRATION
-*COMPANY* - *CODETECH IT SOLUTIONS*
-*NAME* - *PAILA PAVANI*
-*INTERN ID* - CT08DM142
-*DOMAIN* - FULL STACK WEB DEVELOPMENT
-*DURATION* - 8 WEEKS
-*MENTOR* - NEELA SANTHOSH KUMAR
+# API-INTEGRATION WEATHER APP
 
+## COMPANY: CODETECH IT SOLUTIONS  
+**NAME:** PAILA PAVANI  
+**INTERN ID:** CT08DM142  
+**DOMAIN:** FULL STACK WEB DEVELOPMENT  
+**DURATION:** 8 WEEKS  
+**MENTOR:** NEELA SANTHOSH KUMAR  
 
-*Weather App* – Project Description
-This Weather App is a simple and user-friendly web application that helps people check the current weather and 5-day weather forecast for any city in the world. The app is designed using basic web development tools and works directly in your web browser—no need to install anything!
+---
 
-*What the App Does*
-The Weather App lets users:
+## Weather App – Project Description
 
-Enter the name of a city (like "New York" or "Hyderabad").
+This Weather App is a simple and user-friendly web application that helps people check the current weather and 5-day weather forecast for any city in the world. The app is designed using basic web development tools and works directly in your web browser—no need to install anything.
 
-Click a button to get the current temperature, weather condition (like sunny, rainy, or cloudy), and the 5-day forecast.
+---
 
-See weather icons (like sun or cloud images) to understand the forecast easily.
+## What the App Does
 
-View the city name displayed clearly above the forecast.
+The Weather App allows users to:
 
-*Tools and Technologies Used*
-This project is made using simple web development tools that are easy to learn and very common in the tech world:
+- Enter the name of a city (e.g., "New York" or "Hyderabad").
+- Click a button to get the current temperature, weather condition (sunny, rainy, cloudy), and 5-day forecast.
+- View weather icons (like sun or cloud images) for easy understanding.
+- See the city name clearly displayed above the forecast.
 
-HTML (HyperText Markup Language)
-HTML is used to build the structure of the webpage. It creates the input box, buttons, and sections where the weather data is displayed.
+---
 
-CSS (Cascading Style Sheets)
-CSS is used to make the app look nice. It sets the background color, font style, spacing, button colors, and layout of the app so it’s clean and modern.
+## Tools and Technologies Used
 
-JavaScript
-JavaScript adds functionality to the app. When you type a city name and click the button, JavaScript:
+- **HTML (HyperText Markup Language):**  
+  Creates the input box, buttons, and sections where the weather data is shown.
 
-Connects to a weather service on the internet,
+- **CSS (Cascading Style Sheets):**  
+  Styles the app—backgrounds, fonts, layout, colors, and responsiveness.
 
-Gets the weather information,
+- **JavaScript:**  
+  Adds interactivity:
+  - Fetches weather data from a weather service.
+  - Displays current and forecasted weather.
+  - Handles invalid inputs or errors.
 
-Then updates the screen with the results.
-It also handles errors like when the city name is not found.
+- **OpenWeatherMap API:**  
+  Supplies live weather data. An API (Application Programming Interface) allows our app to communicate with OpenWeatherMap.
 
-OpenWeatherMap API
-This is the service that gives us live weather data. API stands for “Application Programming Interface,” which means it lets our app talk to another app (in this case, OpenWeatherMap) and get real-time weather details.
+---
 
-*Platform*
-This app is made for the web, so it can run on any device with a browser—like computers, tablets, or smartphones.
+## Platform
 
-It doesn’t require a backend or database, so it’s very lightweight.
+- Built for the web, so it works on any browser-enabled device (PC, phone, tablet).
+- Lightweight—no backend or database required.
+- Can be hosted on GitHub Pages, Netlify, or Vercel for free.
 
-You can host this app on free platforms like GitHub Pages, Netlify, or Vercel.
+---
 
-*Features*
-Current Weather: Shows city name, temperature (in Celsius), and current weather condition.
+## Features
 
-5-Day Forecast: Shows weather for the next 5 days with icons, temperature, and description.
+- Current Weather: Displays city, temperature (°C), and condition.
+- 5-Day Forecast: With icons, temperature, and short descriptions.
+- Responsive Design: Fits all screen sizes.
+- City Validation: Displays a friendly message if the input is wrong.
+- Clean UI: White background, blue accents, soft shadows for modern look.
 
-Responsive Design: The layout adjusts to fit different screen sizes.
+---
 
-City Validation: If a city name is entered wrong, it shows a helpful message.
+## What You Learn from This Project
 
-Clean UI: Simple and modern design using white background with soft shadows and blue accents.
+- How to use HTML, CSS, JavaScript to build real-world apps.
+- How to fetch and use live data from public APIs.
+- DOM manipulation using JavaScript for real-time updates.
+- Code organization and structure for readability and maintenance.
 
-*What You Learn from This Project*
-This project is great for beginners who want to learn:
+---
 
-How to build a complete project using HTML, CSS, and JavaScript.
+## Summary
 
-How to use an API to get live data from the internet.
+This Weather App project is a great start for beginners to practice full-stack web development basics. It teaches you how to:
 
-How to update the webpage using JavaScript without reloading it.
+- Build a web interface from scratch.
+- Use an external API.
+- Make an interactive application without reloading pages.
+- Display useful real-time information with clean design.
 
-How to organize code and keep structure clean and readable.
+With enhancements like a map view or hourly forecast, this can grow into a complete weather dashboard.
 
-*Summary*
-The Weather App is a fun and educational project that combines coding skills with real-world data. It teaches how to build an interactive web application from scratch, use an API, and make a useful tool that anyone can access. With a little more styling or added features like a map or hourly forecast, this app can grow into a full-fledged weather dashboard.
+---
 
-*OUTPUT*
-![Image](https://github.com/user-attachments/assets/a640130b-8a43-4dd8-a25c-3701f186617b)
-![Image](https://github.com/user-attachments/assets/eebecdba-f0d3-4948-9a31-a32cc5463ed3)
+## OUTPUT
+
+### Screenshot 1
+
+![Image 1](https://github.com/user-attachments/assets/a640130b-8a43-4dd8-a25c-3701f186617b)
+
+### Screenshot 2
+
+![Image 2](https://github.com/user-attachments/assets/eebecdba-f0d3-4948-9a31-a32cc5463ed3)
+
