@@ -1,6 +1,6 @@
 # API-INTEGRATION
-*COMPANY* - CODETECH IT SOLUTIONS
-*NAME* - PAILA PAVANI
+*COMPANY* - *CODETECH IT SOLUTIONS*
+*NAME* - *PAILA PAVANI*
 *INTERN ID* - CT08DM142
 *DOMAIN* - FULL STACK WEB DEVELOPMENT
 *DURATION* - 8 WEEKS
@@ -76,4 +76,5 @@ How to organize code and keep structure clean and readable.
 The Weather App is a fun and educational project that combines coding skills with real-world data. It teaches how to build an interactive web application from scratch, use an API, and make a useful tool that anyone can access. With a little more styling or added features like a map or hourly forecast, this app can grow into a full-fledged weather dashboard.
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/a640130b-8a43-4dd8-a25c-3701f186617b)
 ![Image](https://github.com/user-attachments/assets/eebecdba-f0d3-4948-9a31-a32cc5463ed3)
